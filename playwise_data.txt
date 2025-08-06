@@ -1,0 +1,33 @@
+[SONGS]
+Shape of You,Ed Sheeran,Pop,233
+Blinding Lights,The Weeknd,Pop,200
+Bohemian Rhapsody,Queen,Rock,354
+Test Song,Test Artist,Jazz,120
+Chill Vibes,Lofi Artist,Lo-Fi,180
+Hide,JuiceWRLD,Lo-Fi,200
+All the stars,Kendrick Lamar,Lo-Fi,220
+[PLAY_COUNTS]
+Bohemian Rhapsody,8
+Chill Vibes,8
+Blinding Lights,8
+Shape of You,9
+Test Song,12
+All the stars,4
+Hide,2
+[RATINGS]
+Shape of You,4
+[HISTORY]
+All the stars
+Chill Vibes
+Test Song
+All the stars
+Hide
+[SKIPPED]
+Blinding Lights
+Shape of You
+[RECENT_ADDED]
+All the stars
+Test Song
+Chill Vibes
+Hide
+[END]
